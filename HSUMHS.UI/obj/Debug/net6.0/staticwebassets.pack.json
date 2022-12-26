@@ -1,363 +1,459 @@
 {
   "Files": [
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HSUMHS.UI.bundle.scp.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HSUMHS.UI.bundle.scp.css",
       "PackagePath": "staticwebassets\\HSUMHS.UI.bundle.scp.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\css\\novi.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\css\\novi.css",
       "PackagePath": "staticwebassets\\css\\novi.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\css\\site.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\css\\style.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\favicon.ico",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\1.jpg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\lg.eot",
+      "PackagePath": "staticwebassets\\fonts\\lg.eot"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\fonts\\lg.svg"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\fonts\\lg.woff"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\1.jpg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\1.jpg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\2.jpg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\2.jpg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\2.jpg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\3.jpg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\3.jpg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\3.jpg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\4.JPG",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\4.JPG",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\4.JPG"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\4.png",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\4.png",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\4.png"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\5.jpg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\5.jpg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\5.jpg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\6.png",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\6.png",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\6.png"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\7.jpg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\7.jpg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\7.jpg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\8.jpg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Banners\\8.jpg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Banners\\8.jpg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1508.JPG",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1508.JPG",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\IMG_1508.JPG"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1515.JPG",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1515.JPG",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\IMG_1515.JPG"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1519.JPG",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1519.JPG",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\IMG_1519.JPG"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1522.JPG",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1522.JPG",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\IMG_1522.JPG"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1533.JPG",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1533.JPG",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\IMG_1533.JPG"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1561.JPG",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\IMG_1561.JPG",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\IMG_1561.JPG"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (1).jpeg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (1).jpeg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (1).jpeg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (2).jpeg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (2).jpeg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (2).jpeg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (3).jpeg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (3).jpeg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (3).jpeg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (4).jpeg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (4).jpeg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM (4).jpeg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM.jpeg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM.jpeg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.46 PM.jpeg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.47 PM (1).jpeg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.47 PM (1).jpeg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.47 PM (1).jpeg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.47 PM.jpeg",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.47 PM.jpeg",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\Gallery\\WhatsApp Image 2022-04-24 at 10.23.47 PM.jpeg"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\logofinal.png",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\logofinal.png",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\logofinal.png"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\logofinal_REj_icon.ico",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\logofinal_REj_icon.ico",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\logofinal_REj_icon.ico"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\logofinalfooter.png",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\images\\SchoolContent\\logofinalfooter.png",
       "PackagePath": "staticwebassets\\images\\SchoolContent\\logofinalfooter.png"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\js\\core.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\js\\core.min.js",
       "PackagePath": "staticwebassets\\js\\core.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\js\\script.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\js\\site.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\HSUMHS.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

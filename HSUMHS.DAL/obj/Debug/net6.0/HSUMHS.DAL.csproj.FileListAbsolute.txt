@@ -32,3 +32,20 @@ D:\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.Models.dll
 D:\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.Models.pdb
 D:\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.csproj.CopyComplete
 D:\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.genruntimeconfig.cache
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.DAL.deps.json
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.DAL.runtimeconfig.json
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.DAL.dll
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.DAL.pdb
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.Models.dll
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\bin\Debug\net6.0\HSUMHS.Models.pdb
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.csproj.AssemblyReference.cache
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.AssemblyInfoInputs.cache
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.AssemblyInfo.cs
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.csproj.CoreCompileInputs.cache
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.csproj.CopyComplete
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.dll
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\refint\HSUMHS.DAL.dll
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.pdb
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\HSUMHS.DAL.genruntimeconfig.cache
+D:\DOT NET PRODUCT\.NET 6\HSUMHS\hsumhs_SchoolManagement\HSUMHS.DAL\obj\Debug\net6.0\ref\HSUMHS.DAL.dll

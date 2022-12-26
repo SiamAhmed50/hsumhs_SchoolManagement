@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj": {}
+    "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj": {}
   },
   "projects": {
-    "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj": {
+    "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj",
+        "projectUniqueName": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj",
         "projectName": "HSUMHS.DAL",
-        "projectPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj",
-        "packagesPath": "C:\\Users\\siam\\.nuget\\packages\\",
-        "outputPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\obj\\",
+        "projectPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj",
+        "packagesPath": "C:\\Users\\ARIFIN\\.nuget\\packages\\",
+        "outputPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\siam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ARIFIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj": {
-                "projectPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj"
+              "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj": {
+                "projectPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj"
               }
             }
           }
@@ -75,7 +75,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,21 +85,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj": {
+    "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj",
+        "projectUniqueName": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj",
         "projectName": "HSUMHS.Models",
-        "projectPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj",
-        "packagesPath": "C:\\Users\\siam\\.nuget\\packages\\",
-        "outputPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\obj\\",
+        "projectPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj",
+        "packagesPath": "C:\\Users\\ARIFIN\\.nuget\\packages\\",
+        "outputPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\siam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ARIFIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -129,7 +130,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,21 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj": {
+    "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj",
+        "projectUniqueName": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj",
         "projectName": "HSUMHS.UI",
-        "projectPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj",
-        "packagesPath": "C:\\Users\\siam\\.nuget\\packages\\",
-        "outputPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\obj\\",
+        "projectPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\HSUMHS.UI.csproj",
+        "packagesPath": "C:\\Users\\ARIFIN\\.nuget\\packages\\",
+        "outputPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\siam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ARIFIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,11 +168,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj": {
-                "projectPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj"
+              "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj": {
+                "projectPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.DAL\\HSUMHS.DAL.csproj"
               },
-              "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj": {
-                "projectPath": "D:\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj"
+              "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj": {
+                "projectPath": "D:\\DOT NET PRODUCT\\.NET 6\\HSUMHS\\hsumhs_SchoolManagement\\HSUMHS.Models\\HSUMHS.Models.csproj"
               }
             }
           }
@@ -224,7 +226,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -236,7 +239,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

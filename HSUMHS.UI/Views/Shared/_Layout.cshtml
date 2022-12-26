@@ -12,6 +12,7 @@
     @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
 @*    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/HSUMHS.UI.styles.css" asp-append-version="true" />*@
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <link rel="stylesheet" href="~/css/style.css" />
     <link rel="stylesheet" href="~/css/novi.css" />
 </head>
@@ -116,14 +117,79 @@
 
       
         @RenderBody()
-       
-  
-  
-  
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - HSUMHS.UI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+
+
+
+    <footer class="section page-footer">
+        <div class="novi-background bg-cover bg-default">
+            <div class="shell-wide">
+                <div class="hr bg-gray-light"></div>
+            </div>
+            <div class="section-60">
+                <div class="shell">
+                    <div class="range range-50 range-lg-justify range-xs-center">
+                        <div class="cell-md-3 cell-lg-3">
+                            <a class="reveal-inline-block" href="index.html"><img src="images/SchoolContent/logofinalfooter.png" alt="" srcset="images/SchoolContent/logofinalfooter.png" style="width: 35%;"></a>
+                            <div class="offset-top-30 text-center">
+                                <ul class="list-inline list-inline-xs list-inline-madison">
+                                    <li><a class="icon novi-icon icon-xxs fa-facebook icon-circle icon-gray-light-filled" href="#"></a></li>
+                                    <li><a class="icon novi-icon icon-xxs fa-twitter icon-circle icon-gray-light-filled" href="#"></a></li>
+                                    <li><a class="icon novi-icon icon-xxs fa-google icon-circle icon-gray-light-filled" href="#"></a></li>
+                                    <li><a class="icon novi-icon icon-xxs fa-instagram icon-circle icon-gray-light-filled" href="#"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="cell-xs-10 cell-md-5 cell-lg-4 text-lg-left">
+                            <h6 class="text-bold">Contact us</h6>
+                            <div class="text-subline"></div>
+                            <div class="offset-top-30">
+                                <ul class="list-unstyled contact-info list">
+                                    <li>
+                                        <div class="unit unit-horizontal unit-middle unit-spacing-xs">
+                                            <div class="unit-left"><span class="icon novi-icon mdi mdi-phone text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a class="text-dark" href="tel:#">+8801815052070</a></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="unit unit-horizontal unit-middle unit-spacing-xs">
+                                            <div class="unit-left"><span class="icon novi-icon mdi mdi-map-marker text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body text-left"><a class="text-dark" href="#">কদম রসুল,নবীগঞ্জ,বন্দর,নারায়ণগঞ্জ</a></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="unit unit-horizontal unit-middle unit-spacing-xs">
+                                            <div class="unit-left"><span class="icon novi-icon mdi mdi-email-open text-middle icon-xs text-madison"></span></div>
+                                            <div class="unit-body"><a href="mailto:#">hazisirajuddinmhs@gmail.com</a></div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="cell-xs-10 cell-md-8 cell-lg-4 text-lg-left">
+                            <h6 class="text-bold">নিউজলেটার</h6>
+                            <div class="text-subline"></div>
+                            <div class="offset-top-30 text-left">
+                                <p>প্রতিষ্ঠানের সর্বশেষ খবর, বিশেষ ইভেন্ট এবং ছাত্র কার্যকলাপ সরাসরি আপনার ইনবক্সে পৌঁছে দিতে আপনার ইমেল ঠিকানা লিখুন।</p>
+                            </div>
+                            <div class="offset-top-10">
+                                <form class="rd-mailform form-subscribe" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
+                                    <div class="form-group">
+                                        <div class="input-group input-group-sm"><label class="form-label" for="form-email">Your e-mail</label><input class="form-control" id="form-email" type="email" name="email" ><span class="input-group-btn"><button class="btn btn-sm btn-primary" type="submit">Subscribe</button></span></div>
+                                    </div>
+                                    <div class="form-output"></div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section-5 bg-madison context-dark novi-background">
+                <div class="shell text-md-left">
+                    <p class="">© <span class="copyright-year">2019</span> All Rights Reserved Terms of Use and <a href="privacy.html">Privacy Policy.</a><span> A Product Of&nbsp;by Patshala</span></p>
+                </div>
+            </div>
         </div>
     </footer>
     @*<script src="~/lib/jquery/dist/jquery.min.js"></script>*@

@@ -10936,6 +10936,18 @@ mark,
 .page .text-madison {
 	color: #59AA66;
 }
+.icon.novi-icon.icon-lg.icon-outlined.text-madison.mdi.mdi-school {
+	color: #59AA66;
+}
+.icon.novi-icon.icon-lg.icon-outlined.text-madison.mdi.mdi-wallet-travel {
+	color: #59AA66;
+}
+.icon.novi-icon.icon-lg.icon-outlined.text-madison.mdi.mdi-domain {
+	color: #59AA66;
+}
+.icon.novi-icon.icon-lg.icon-outlined.text-madison.mdi.mdi-account-multiple-outline {
+	color: #59AA66;
+}
 
 .page a.text-madison:hover,
 .page a.text-madison:focus {
@@ -23739,7 +23751,7 @@ button.list-group-item-danger.active:focus {
 }
 
 .input-group.input-group-sm > .form-control {
-	padding: 8px 10px;
+	padding: 19px 10px;
 }
 
 .input-group.input-group-sm .form-label {
@@ -23747,9 +23759,19 @@ button.list-group-item-danger.active:focus {
 	left: 10px;
 	font-size: 12px;
 }
+.reveal-inline-block {
+	text-align: center;
+	padding-bottom: 9px;
+}
+.offset-top-30 {
+	padding-top: 23px;
+}
 
 .input-group.input-group-sm .form-label.focus {
 	top: 2px;
+}
+html :last-child {
+	margin-bottom: 0;
 }
 
 @media (min-width: 992px) {
