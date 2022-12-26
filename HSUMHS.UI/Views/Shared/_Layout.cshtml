@@ -1,12 +1,17 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - HSUMHS.UI</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/HSUMHS.UI.styles.css" asp-append-version="true" />
+   <title>হাজী সিরাজ উদ্দিন মেমোরিয়াল উচ্চ বিদ্যালয়</title>
+    <meta charset="utf-8">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="keywords" content="Hazi Siraj Uddin Memorial High School">
+ 
+    <link rel="icon" href="~/images/SchoolContent/logofinal_REj_icon.ico" type="image/x-icon">
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
+@*    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/HSUMHS.UI.styles.css" asp-append-version="true" />*@
     <link rel="stylesheet" href="~/css/style.css" />
     <link rel="stylesheet" href="~/css/novi.css" />
 </head>
@@ -109,20 +114,21 @@
 
 
 
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+      
+        @RenderBody()
+       
+  
+  
+  
 
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2022 - HSUMHS.UI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    @*<script src="~/lib/jquery/dist/jquery.min.js"></script>*@
+ @*   <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>*@
     <script src="~/js/core.min.js"></script>
     <script src="~/js/script.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
